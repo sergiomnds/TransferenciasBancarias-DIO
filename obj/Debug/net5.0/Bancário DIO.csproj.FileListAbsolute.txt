@@ -1,0 +1,16 @@
+D:\Gabriel\DIGITAL INNOVATION ONE\Bancário DIO\bin\Debug\net5.0\Bancário DIO.exe
+D:\Gabriel\DIGITAL INNOVATION ONE\Bancário DIO\bin\Debug\net5.0\Bancário DIO.deps.json
+D:\Gabriel\DIGITAL INNOVATION ONE\Bancário DIO\bin\Debug\net5.0\Bancário DIO.runtimeconfig.json
+D:\Gabriel\DIGITAL INNOVATION ONE\Bancário DIO\bin\Debug\net5.0\Bancário DIO.runtimeconfig.dev.json
+D:\Gabriel\DIGITAL INNOVATION ONE\Bancário DIO\bin\Debug\net5.0\Bancário DIO.dll
+D:\Gabriel\DIGITAL INNOVATION ONE\Bancário DIO\bin\Debug\net5.0\ref\Bancário DIO.dll
+D:\Gabriel\DIGITAL INNOVATION ONE\Bancário DIO\bin\Debug\net5.0\Bancário DIO.pdb
+D:\Gabriel\DIGITAL INNOVATION ONE\Bancário DIO\obj\Debug\net5.0\Bancário DIO.csproj.AssemblyReference.cache
+D:\Gabriel\DIGITAL INNOVATION ONE\Bancário DIO\obj\Debug\net5.0\Bancário DIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabriel\DIGITAL INNOVATION ONE\Bancário DIO\obj\Debug\net5.0\Bancário DIO.AssemblyInfoInputs.cache
+D:\Gabriel\DIGITAL INNOVATION ONE\Bancário DIO\obj\Debug\net5.0\Bancário DIO.AssemblyInfo.cs
+D:\Gabriel\DIGITAL INNOVATION ONE\Bancário DIO\obj\Debug\net5.0\Bancário DIO.csproj.CoreCompileInputs.cache
+D:\Gabriel\DIGITAL INNOVATION ONE\Bancário DIO\obj\Debug\net5.0\Bancário DIO.dll
+D:\Gabriel\DIGITAL INNOVATION ONE\Bancário DIO\obj\Debug\net5.0\ref\Bancário DIO.dll
+D:\Gabriel\DIGITAL INNOVATION ONE\Bancário DIO\obj\Debug\net5.0\Bancário DIO.pdb
+D:\Gabriel\DIGITAL INNOVATION ONE\Bancário DIO\obj\Debug\net5.0\Bancário DIO.genruntimeconfig.cache
